@@ -1,3 +1,5 @@
+package complex;
+
 import java.util.Scanner;
 public class InstituteSolution {
 
